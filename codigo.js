@@ -4,5 +4,5 @@ if(edad>=0){
     alert("No puedes ser menor de edad");
 }
 document.write("Hello word ");
-edad*=3;
+edad%=3;
 document.write(edad);
